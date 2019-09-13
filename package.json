@@ -29,7 +29,7 @@
     "typescript": "3.5.3"
   },
   "dependencies": {
-    "@nestjs/serverless-core": "0.1.1",
+    "@nestjs/serverless-core": "0.1.0",
     "memory-fs": "0.4.1",
     "ts-morph": "4.0.0",
     "webpack": "4.39.3"
