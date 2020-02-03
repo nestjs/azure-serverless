@@ -13,7 +13,7 @@
     "publish:next": "npm publish --access public --tag next"
   },
   "devDependencies": {
-    "@nestjs/azure-func-http": "0.4.1",
+    "@nestjs/azure-func-http": "0.4.2",
     "@nestjs/common": "6.11.5",
     "@nestjs/core": "6.11.5",
     "@nestjs/platform-express": "6.11.5",
