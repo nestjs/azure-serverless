@@ -22,7 +22,7 @@
     "@types/webpack": "4.41.9",
     "copyfiles": "2.2.0",
     "husky": "4.2.3",
-    "jest": "25.2.3",
+    "jest": "25.2.4",
     "lint-staged": "10.0.10",
     "prettier": "2.0.2",
     "reflect-metadata": "0.1.13",
