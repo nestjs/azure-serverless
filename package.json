@@ -28,7 +28,7 @@
     "reflect-metadata": "0.1.13",
     "rxjs": "6.6.0",
     "ts-loader": "8.0.1",
-    "typescript": "3.9.6"
+    "typescript": "3.9.7"
   },
   "dependencies": {
     "@nestjs/serverless-core": "0.2.1",
