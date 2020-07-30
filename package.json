@@ -14,9 +14,9 @@
   },
   "devDependencies": {
     "@nestjs/azure-func-http": "0.5.2",
-    "@nestjs/common": "7.4.1",
-    "@nestjs/core": "7.4.1",
-    "@nestjs/platform-express": "7.4.1",
+    "@nestjs/common": "7.4.2",
+    "@nestjs/core": "7.4.2",
+    "@nestjs/platform-express": "7.4.2",
     "@types/memory-fs": "0.3.2",
     "@types/node": "7.10.7",
     "@types/webpack": "4.41.21",
