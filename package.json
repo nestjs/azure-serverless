@@ -21,7 +21,7 @@
     "@nestjs/platform-express": "7.6.18",
     "@types/memory-fs": "0.3.3",
     "@types/node": "14.17.4",
-    "@types/webpack": "4.41.29",
+    "@types/webpack": "4.41.30",
     "copyfiles": "2.4.1",
     "husky": "7.0.0",
     "jest": "26.6.3",
